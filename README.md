@@ -1,6 +1,6 @@
 # weather-api
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple weather forecast application using an API, with Vue.js as the UI and a backend.
 
 ## Recommended IDE Setup
 
